@@ -1,2 +1,1 @@
-# Deep_Learning_Coursera
-Deep Learning specialisation course by Andrew Ng on Coursera.
+# Deep Learning specialization course by Andrew Ng on Coursera.
